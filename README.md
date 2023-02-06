@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvp30&label=Profile%20views&color=0e75b6&style=flat" alt="cvp30" /> </p>
 
-- 🌱 I’m currently learning more about **Django framework**
+- 🌱 I’m currently learning more about **React**
 
 - 📫 How to reach me **carlos.valer.p30@gmail.com**
 
