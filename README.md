@@ -3,12 +3,11 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">  
+<img width="350" align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvp30&label=Profile%20views&color=0e75b6&style=flat" alt="cvp30" /> </p>
 
 - 🌱 I’m currently learning more about **React**
-
 - 📫 How to reach me **carlos.valer.p30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
