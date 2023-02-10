@@ -1,4 +1,4 @@
-![logo](https://github.com/cvp30/cvp30/blob/main/banner.png)
+![logo](https://github.com/cvp30/cvp30/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
